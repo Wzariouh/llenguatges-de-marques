@@ -1,0 +1,24 @@
+header {
+    background-color: lightblue;
+}
+.header-logo {
+    
+}
+.header-try {
+    position:relative;
+    left: 70%;
+    background-color: white;
+    color: black;
+    padding: 1%;
+    border-radius: 20%;
+
+}
+.header-try:hover{
+    color: bisque;
+}
+.header-text{
+    font-size: 18px;
+}
+.header-intro{
+    font-family: "Poppins";
+}
